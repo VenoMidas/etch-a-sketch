@@ -6,7 +6,7 @@ Create a webpage with a 16x16 grid of square divs.
     Options for grid: float/clear, inline-block, flexbox, css grid.
     Hint - be mindful of borders and margins, they can effect size of squares
 
-Set up a "hover" effect so that the rid divs change color when your mouse passes over them, leaving a pixelated trail through your grid like a pen would. 
+Set up a "hover" effect so that the divs change color when your mouse passes over them, leaving a pixelated trail through your grid like a pen would. 
     Hover can have event listener for entering and/or exiting a div with the mouse.
 
 Add a button to the screen that prompts the user asking for number of squares per side for the new grid.
